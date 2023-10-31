@@ -1,0 +1,6 @@
+# Ignore hidden files except the .gitignore
+.*
+!.gitignore
+
+# Ignore the public directory: we're deploying with GitHub Actions!
+public/
