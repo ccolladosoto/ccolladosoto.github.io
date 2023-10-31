@@ -11,10 +11,16 @@ copyright = "Clara Collado Soto ©"
   initials = "CC"
   googleAnalytics = ""
 
+  # Available icons can be searched at: https://fontawesome.com/icons
   [[params.social]]
     name = "Twitter"
     link = "https://twitter.com/"
     icon = "fab fa-twitter"
+
+  [[params.social]]
+    name = "Spotify"
+    link = "https://www.spotify.com/es/premium/"
+    icon = "fab fa-spotify"
 
   # [[params.social]]
   #   name = "Github"
