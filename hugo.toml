@@ -16,40 +16,40 @@ copyright = "Clara Collado Soto ©"
     link = "https://twitter.com/"
     icon = "fab fa-twitter"
 
-  [[params.social]]
-    name = "Github"
-    link = "https://github.com/ccolladosoto"
-    icon = "fab fa-github"
+  # [[params.social]]
+  #   name = "Github"
+  #   link = "https://github.com/ccolladosoto"
+  #   icon = "fab fa-github"
 
-  [[params.social]]
-    name = "Medium" 
-    link = "#"
-    icon = "fab fa-medium-m"
+  # [[params.social]]
+  #   name = "Medium" 
+  #   link = "#"
+  #   icon = "fab fa-medium-m"
 
-  [[params.social]]
-    name = "LinkedIn"
-    link = "#"
-    icon = "fab fa-linkedin-in"
+  # [[params.social]]
+  #   name = "LinkedIn"
+  #   link = "#"
+  #   icon = "fab fa-linkedin-in"
 
 
 [menu]
-  [[menu.main]]
-    name = "Digital Garden"
-    url = "/garden/"
-    weight = 1
+  # [[menu.main]]
+  #   name = "Digital Garden"
+  #   url = "/garden/"
+  #   weight = 1
 
   [[menu.main]]
-    name = "Projects"
+    name = "Artículos"
     url = "/projects/"
     weight = 2
 
-  [[menu.main]]
-    name = "Library"
-    url = "/library/"
-    weight = 3
+  # [[menu.main]]
+  #   name = "Library"
+  #   url = "/library/"
+  #   weight = 3
 
   [[menu.main]]
-    name = "About"
+    name = "Sobre mi"
     url = "/about/"
     weight = 4
 
