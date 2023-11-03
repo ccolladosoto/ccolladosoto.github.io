@@ -6,3 +6,5 @@ layout: about
 ---
 
 Pues eso, aquí escribiendo...
+
+¿Esto se está **viendo**?
