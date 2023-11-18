@@ -89,8 +89,12 @@ periodismo, sacarlo de esa presión a la que está sometido. Pero, al fin y al c
 o eso me gusta pensar.
 
 **Bibliografía**
+
 Aguirre, J.M (2012): *Los pilares del profesional de la información*
+
 Lobo, R. (2014): *Un periodismo que desafía al poder*. Articulo recuperado de: https://www.infolibre.es/opinion/columnas/periodismo-desafia_1_1106956.html
+
 Ramajo, J. (2015): *El gran mal de nuestra civilización es que no nos hacemos preguntas*. Recuperado de: https://www.eldiario.es/andalucia/rosa-maria-calaf_128_2374207.html
+
 Jiménez, I. (2015): *Siete heridas del Periodismo*. Recuperado de:  http://www.elsalmoncontracorriente.es/?Siete-heridas-del-periodismo  
 Ros, L. (2020): *¿Cuál es la función del periodismo?*. Recuperado de: https://www.lavanguardia.com/vida/junior-report/20201026/484239114555/cual-es-la-funcion-del-periodismo.html
