@@ -1,11 +1,13 @@
-title: "Las esculturas olvidadas del Museo del Prado"
-date: 2023-11-18
+---
+title: "Las esulturas olvidadas del Museo del Prado"
+date: 2023-11-19
 draft: false
-project_tags: ["Crónica", "cultura"]
+project_tags: ["crónica", "cultura"]
 status: " "
-summary: " El Museo Nacional del Prado alberga unas 2000 obras entre sus paredes, pero no todas se observan de igual manera"
+summary: "El Museo Nacional del Prado alberga unas 2000 obras entre sus paredes, pero no todas se observan de igual manera."
 weight: 1
 ---
+
 **El Museo Nacional del Prado alberga unas 2000 obras entre sus paredes, pero no todas se observan de igual manera. Entre 
 las grandes pinturas de los artistas más importantes del mundo del arte, se encuentran esculturas, que, aunque no estén
 dotadas de tanta fama, siguen siendo parte de la exposición. Pero, debido a su localización en distintos lugares de paso,
