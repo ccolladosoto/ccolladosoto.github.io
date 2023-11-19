@@ -1,5 +1,5 @@
 ---
-title: "María Ressa en su libro *Cómo luchar contra un dictador* hace un llamamiento a la acción"
+title: "María Ressa en su libro "Cómo luchar contra un dictador" hace un llamamiento a la acción"
 date: 2023-11-18
 draft: false
 project_tags: ["reseña", "libro", "periodismo"]
