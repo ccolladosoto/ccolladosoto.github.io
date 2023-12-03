@@ -2,7 +2,7 @@
 title: "La verdadera enfermedad del siglo XXI"
 date: 2023-11-18
 draft: false
-project_tags: ["Artículo", "cultura" "actualidad"]
+project_tags: ["Artículo", "cultura", "actualidad"]
 status: " "
 summary: "Las casas de apuestas en España han adquirido una relevancia en los últimos años que ha superado 
 cualquier expectativa."
