@@ -1,7 +1,7 @@
 ---
 title: "Clara Collado Soto"
 date: 2023-10-31
-summary: ""
+summary: "Sobre mí"
 layout: about
 ---
 
