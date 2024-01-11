@@ -2,7 +2,7 @@
 title: "No se puede vivir solo de libros"
 date: 2023-11-03
 draft: false
-project_tags: ["cronica", "ficcion"]
+project_tags: ["crónica", "ficción"]
 status: " "
 summary: "Los libros no lo son todo..."
 weight: 1
