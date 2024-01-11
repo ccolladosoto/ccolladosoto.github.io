@@ -2,7 +2,7 @@
 title: "Exposiciones temporales con efectos permanentes"
 date: 2023-11-16
 draft: false
-project_tags: ["cronica", "cultura"]
+project_tags: ["crónica", "cultura"]
 status: " "
 summary: "Las exposiciones temporales en los museos de Madrid sí suponen una subida en las visitas"
 weight: 1
