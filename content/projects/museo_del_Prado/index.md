@@ -1,5 +1,5 @@
 ---
-title: "Las esulturas olvidadas del Museo del Prado"
+title: "Las esculturas olvidadas del Museo del Prado"
 date: 2023-11-19
 draft: false
 project_tags: ["crónica", "cultura"]
