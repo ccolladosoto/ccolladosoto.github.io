@@ -1,10 +1,10 @@
 ---
-title: `"Un amor" lleva la incomodidad a las salas del cine´
+title: '"Un amor" lleva la incomodidad a las salas del cine'
 date: 2023-11-18
 draft: false
 project_tags: ["Crítica", "cultura", "actualidad"]
 status: " "
-summary: "La película Un amor, estrenada el pasado 10 de noviembre en cines, es incapaz de dejar indiferente. "
+summary: "La película "Un amor", estrenada el pasado 10 de noviembre en cines, es incapaz de dejar indiferente. "
 weight: 1
 ---
 La película *Un amor*, estrenada el pasado 10 de noviembre en cines, es incapaz de dejar indiferente. Esta adaptación 
