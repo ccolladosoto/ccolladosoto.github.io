@@ -65,7 +65,7 @@ del texto, refiriéndose a la sonoridad y la resonancia del propio al ser leído
 la prosa de Fosse. El autor considera la narración como una especie de canción que se escribe en base a ese ritmo, 
 como explica en la entrevista que concedió a *El País* titulada *Jon Fosse, premio Nobel de Literatura: "Prefiero vivir de 
 la manera más aburrida posible"*. EL ritmo es algo que al leer el texto se siente, pero no hay una fórmula invariable 
-çpara notarlo. De ahí que la IA no pueda copiar esto, por mucho que intente aprenderlo. El ritmo es algo inherente
+para notarlo. De ahí que la IA no pueda copiar esto, por mucho que intente aprenderlo. El ritmo es algo inherente
 en la forma de expresarse de la persona, no de la máquina. 
 
 En un mundo donde parece que hay una carrera generalizada basada en el progreso y la velocidad, la Literatura toma 
