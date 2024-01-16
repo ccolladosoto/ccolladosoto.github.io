@@ -7,7 +7,7 @@ status: " "
 summary: "A ver si vais a tener libertad y no vais a saber que hacer con ella"
 weight: 1
 ---
-Hace un tiempo mi profesor de Redacción dijo una frase en clase: “a ver si vais a tener libertad
+Hace un tiempo mi profesor de Redacción dijo una frase en clase: “A ver si vais a tener libertad
 y no vais a saber qué hacer con ella”. Nos estaba explicando la mecánica para escribir una columna 
 de opinión y ningún alumno de la clase se atrevió a ser contundente en sus escritos. Había un miedo
 generalizado a mostrar el propio punto de vista, a abrirnos un poco a los demás. 
