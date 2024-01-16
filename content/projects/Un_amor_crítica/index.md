@@ -1,5 +1,5 @@
 ---
-title: ""Un amor" lleva la incomodidad a las salas del cine"
+title: " "Un amor" lleva la incomodidad a las salas del cine"
 date: 2023-11-18
 draft: false
 project_tags: ["Crítica", "cultura", "actualidad"]
@@ -7,7 +7,7 @@ status: " "
 summary: "La película Un amor, estrenada el pasado 10 de noviembre en cines, es incapaz de dejar indiferente. "
 weight: 1
 ---
-La película Un amor, estrenada el pasado 10 de noviembre en cines, es incapaz de dejar indiferente. Esta adaptación 
+La película *Un amor*, estrenada el pasado 10 de noviembre en cines, es incapaz de dejar indiferente. Esta adaptación 
 de la novela con el mismo nombre escrita por Sara Mesa, publicada en el 2020, y dirigida por Isabel Coixet, mete el dedo 
 en la llaga de aquellos que no conciben el amor como algo descarnado o dependiente. A través de la historia de Nat, la 
 protagonista del metraje, Coixet denuncia la realidad que muchas mujeres viven a diario. 
