@@ -1,7 +1,5 @@
 ---
 title: "Israel y Hamás, el conflicto armado que parecer no estar ocurriendo dentro de las frpnteras ddel país"
-ANÁLISIS DE TRIBUNAS PUBLICADAS EN MEDIOS DE 
-COMUNICACIÓN ESPAÑOLES"
 date: 2023-11-18
 draft: false
 project_tags: ["Periodismo", "noticia", "actualidad", "reflexión"]
