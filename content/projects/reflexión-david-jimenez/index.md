@@ -2,9 +2,9 @@
 title: "Palabras y heridas"
 date: 2023-11-18
 draft: false
-project_tags: ["Columna", "Reflexión", "Periodismo".]
+project_tags: ["Columna", "Reflexión", "Periodismo"]
 status: " "
-summary: "David Jiménez, parafraseando a Lu Xu afirma que “las mentiras escritas en tinta no pueden borrar los hechos escritos con sangre”."
+summary: 'David Jiménez, parafraseando a Lu Xu afirma que “las mentiras escritas en tinta no pueden borrar los hechos escritos con sangre”.'
 weight: 1
 ---
 David Jiménez, parafraseando a Lu Xu afirma que “las mentiras escritas en tinta no pueden borrar los hechos escritos con sangre”.
